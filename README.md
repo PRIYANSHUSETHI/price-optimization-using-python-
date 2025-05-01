@@ -80,7 +80,7 @@ This project explores **dynamic pricing strategies** using real-world-like data 
 
 ```
 price_optimization_using_python.py
-Competition_Data.csv (not included)
+Competition_Data.csv
 README.md
 ```
 
@@ -91,8 +91,3 @@ README.md
 - Integrate with dashboards (e.g., Streamlit)
 - Introduce promotion and discount impact modeling
 
-## 🧑‍💻 Author
-
-**Your Name**  
-📫 [Your Email]  
-🔗 [GitHub Profile](https://github.com/yourusername)
